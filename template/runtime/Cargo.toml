@@ -103,9 +103,6 @@ std = [
 	"sp-std/std",
 	"sp-transaction-pool/std",
 	"sp-version/std",
-	"frame-benchmarking/std",
-	"frame-system-benchmarking/std",
-
 	"scale-info/std",
 ]
 runtime-benchmarks = [
